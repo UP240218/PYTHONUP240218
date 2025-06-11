@@ -1,9 +1,9 @@
-first_name = 'Cristian'
-last_name = 'Nain'
+first_name = 'Maria Jose'
+last_name = 'Sandoval'
 full_name = first_name + ' ' + last_name
 country = 'Mexico'
 city = 'Aguascalientes'
-age = 19
+age = 18
 year = 2025
 is_married = False
 is_true = True

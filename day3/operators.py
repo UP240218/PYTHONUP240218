@@ -1,5 +1,5 @@
-age = 19
-height = 1.65
+age = 18
+height = 1.60
 complex_number = 3 + 4j
 
 base = float(input())
